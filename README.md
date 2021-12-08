@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning C and Python
 - 💞️ I’m looking to collaborate on CTF and Hacktons
 - 📫 How to reach me leo01eidt@gmail.com
-- 
+
+
+<script src="https://tryhackme.com/badge/230468"></script>
 

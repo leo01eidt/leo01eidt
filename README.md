@@ -5,5 +5,3 @@
 - 📫 How to reach me leo01eidt@gmail.com
 
 
-<script src="https://tryhackme.com/badge/230468"></script>
-
